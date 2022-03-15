@@ -1,3 +1,5 @@
+# Super Linter Demo
+
 ## command to run application locally
 mvn spring-boot:run
 
