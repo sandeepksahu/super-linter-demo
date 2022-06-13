@@ -1,7 +1,7 @@
 ## command to run application locally
 mvn spring-boot:run
 
-## url to test application
+### url to test application
 http://localhost:8080
 
 ## command to run super-linter locally
